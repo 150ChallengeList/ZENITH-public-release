@@ -1,0 +1,6 @@
+C:\Users\rushe\Documents\GitHub\ZENITH\ZENITH\TaskmgrBypass\dllmain.cpp;C:\Users\rushe\Documents\GitHub\ZENITH\ZENITH\TaskmgrBypass\x64\Release\dllmain.obj
+C:\Users\rushe\Documents\GitHub\ZENITH\ZENITH\TaskmgrBypass\Libraries\Minhook\src\buffer.c;C:\Users\rushe\Documents\GitHub\ZENITH\ZENITH\TaskmgrBypass\x64\Release\buffer.obj
+C:\Users\rushe\Documents\GitHub\ZENITH\ZENITH\TaskmgrBypass\Libraries\Minhook\src\hde\hde32.c;C:\Users\rushe\Documents\GitHub\ZENITH\ZENITH\TaskmgrBypass\x64\Release\hde32.obj
+C:\Users\rushe\Documents\GitHub\ZENITH\ZENITH\TaskmgrBypass\Libraries\Minhook\src\hde\hde64.c;C:\Users\rushe\Documents\GitHub\ZENITH\ZENITH\TaskmgrBypass\x64\Release\hde64.obj
+C:\Users\rushe\Documents\GitHub\ZENITH\ZENITH\TaskmgrBypass\Libraries\Minhook\src\hook.c;C:\Users\rushe\Documents\GitHub\ZENITH\ZENITH\TaskmgrBypass\x64\Release\hook.obj
+C:\Users\rushe\Documents\GitHub\ZENITH\ZENITH\TaskmgrBypass\Libraries\Minhook\src\trampoline.c;C:\Users\rushe\Documents\GitHub\ZENITH\ZENITH\TaskmgrBypass\x64\Release\trampoline.obj

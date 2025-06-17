@@ -1,0 +1,10 @@
+﻿  dllmain.cpp
+  buffer.c
+  hde32.c
+  hde64.c
+  hook.c
+  trampoline.c
+  Generating Code...
+  TaskmgrBypass.vcxproj -> C:\Users\rushe\Documents\GitHub\ZENITH\ZENITH\x64\Debug\TaskmgrBypass.dll
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
